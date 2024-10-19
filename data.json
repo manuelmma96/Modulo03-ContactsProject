@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Moises Menendez",
+    "cellphone": "829-917-4824",
+    "email": "manuelmma96@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Cleyrol Santana",
+    "cellphone": "829-482-6512",
+    "email": "cleyrolklkwawawa@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Dylan Minaya",
+    "cellphone": "829-482-6512",
+    "email": "cleyrolklkwawawa@gmail.com"
+  },
+  {
+    "id": 4,
+    "name": "Eliezer Yan",
+    "cellphone": "829-789-1234",
+    "email": "eliezer123@gmail.com"
+  },
+  {
+    "id": 5,
+    "name": "Edson Rojas",
+    "cellphone": "829-567-9012",
+    "email": "edson456@gmail.com"
+  },
+  {
+    "id": 6,
+    "name": "Carlos Linares",
+    "cellphone": "829-486-6292",
+    "email": "carlanga007@gmail.com"
+  },
+  {
+    "id": 7,
+    "name": "Eduardo Burgos",
+    "cellphone": "829-482-1502",
+    "email": "eburgos@gmail.com"
+  },
+  {
+    "id": 8,
+    "name": "Carolin Santos",
+    "cellphone": "829-486-7012",
+    "email": "carolinsantos007@gmail.com@example.com"
+  }
+]
