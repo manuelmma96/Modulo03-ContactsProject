@@ -1,50 +1,106 @@
-[
-  {
-    "id": 1,
-    "name": "Moises Menendez",
-    "cellphone": "829-917-4824",
-    "email": "manuelmma96@gmail.com"
-  },
-  {
-    "id": 2,
-    "name": "Cleyrol Santana",
-    "cellphone": "829-482-6512",
-    "email": "cleyrolklkwawawa@gmail.com"
-  },
-  {
-    "id": 3,
-    "name": "Dylan Minaya",
-    "cellphone": "829-482-6512",
-    "email": "cleyrolklkwawawa@gmail.com"
-  },
-  {
-    "id": 4,
-    "name": "Eliezer Yan",
-    "cellphone": "829-789-1234",
-    "email": "eliezer123@gmail.com"
-  },
-  {
-    "id": 5,
-    "name": "Edson Rojas",
-    "cellphone": "829-567-9012",
-    "email": "edson456@gmail.com"
-  },
-  {
-    "id": 6,
-    "name": "Carlos Linares",
-    "cellphone": "829-486-6292",
-    "email": "carlanga007@gmail.com"
-  },
-  {
-    "id": 7,
-    "name": "Eduardo Burgos",
-    "cellphone": "829-482-1502",
-    "email": "eburgos@gmail.com"
-  },
-  {
-    "id": 8,
-    "name": "Carolin Santos",
-    "cellphone": "829-486-7012",
-    "email": "carolinsantos007@gmail.com@example.com"
-  }
-]
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Carlos linares",
+      "cellphone": "829-957-6892",
+      "email": "carlosli123@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Cleyrol Santana",
+      "cellphone": "829-845-9712",
+      "email": "cleyrolklk@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Dylan Minaya",
+      "cellphone": "829-898-4367",
+      "email": "enbacaneria@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Carolin Santos",
+      "cellphone": "829-486-7012",
+      "email": "cs007new@example.com"
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "name": "Eduardo Burgos",
+      "cellphone": "829-940-5860",
+      "email": "client.eburgos@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Carolin Santos",
+      "cellphone": "829-877-2707",
+      "email": "client.csantos@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Jorge Vargas",
+      "cellphone": "829-404-0434",
+      "email": "client.jvargas@example.com"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 1,
+      "name": "CleanCarWash",
+      "address": "738 Clean St",
+      "industry": "Car Wash"
+    },
+    {
+      "id": 2,
+      "name": "PowerGames",
+      "address": "269 Gaming St",
+      "industry": "VideoGames"
+    },
+    {
+      "id": 3,
+      "name": "DylanMusic",
+      "address": "425 EnBacaneria St",
+      "industry": "Music"
+    },
+    {
+      "id": 4,
+      "name": "Example Name",
+      "address": "111 Example ST",
+      "industry": "Example Industry"
+    }
+  ],
+  "catalogs": [
+    {
+      "id": 1,
+      "title": "Winter Collection",
+      "description": "Cozy and warm apparel for winter",
+      "items": [
+        "Sweaters",
+        "Jackets",
+        "Scarves"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Electronics Sale",
+      "description": "Discounted gadgets and accessories",
+      "items": [
+        "Smartphones",
+        "Laptops",
+        "Headphones"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Vintage Collection",
+      "description": "Exotic vintage watch collection for watch enthusiasts",
+      "items": [
+        "Rolex",
+        "Omega",
+        "Seiko"
+      ]
+    }
+  ]
+}
